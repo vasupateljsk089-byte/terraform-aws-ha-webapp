@@ -1,4 +1,4 @@
-# AWS Auto Scaling Web Application Infrastructure (Terraform)
+# AWS Auto Scaling Web Application Infrastructure 
 
 > **Goal:** Deploy a production-style highly available web application
 > on AWS using Terraform modules.
