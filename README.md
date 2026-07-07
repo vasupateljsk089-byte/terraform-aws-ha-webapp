@@ -7,7 +7,7 @@
 
 # Architecture diagram
 
-![alt text](diagram.png)
+![alt text](/images/diagram.png)
 
 # 📁 Project Structure
 
@@ -382,12 +382,12 @@ Application
 # Output 
 
 
-![alt text](<Screenshot 2026-07-08 000047.png>) 
+![alt text](</images/Screenshot 2026-07-08 000047.png>) 
 
-![alt text](<Screenshot 2026-07-08 000034.png>)
+![alt text](</images/Screenshot 2026-07-08 000034.png>)
 
-![alt text](<Screenshot 2026-07-08 001521.png>)
+![alt text](</images/Screenshot 2026-07-08 001521.png>)
 
-![alt text](<Screenshot 2026-07-08 001436.png>)
+![alt text](</images/Screenshot 2026-07-08 001436.png>)
 
-![alt text](<Screenshot 2026-07-08 001401.png>)
+![alt text](</images/Screenshot 2026-07-08 001401.png>)
